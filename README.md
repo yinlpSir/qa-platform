@@ -20,7 +20,7 @@
 
 <table>
     <tr>
-        <td><img src="https://github.com/user-attachments/assets/8f85304f-2122-4cf5-b7cb-f93d4fd0a31b"/></td>
+        <td><img width="1023" alt="1" src="https://github.com/user-attachments/assets/33fb8cdb-4793-4b5b-9873-fa14adc0508c" /></td>
         <td><img src="https://oscimg.oschina.net/oscnet/1cbcf0e6f257c7d3a063c0e3f2ff989e4b3.jpg"/></td>
     </tr>
     <tr>
