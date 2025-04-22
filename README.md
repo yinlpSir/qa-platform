@@ -20,8 +20,8 @@
 
 <table>
     <tr>
-        <td><img width="1023" alt="1" src="https://github.com/user-attachments/assets/33fb8cdb-4793-4b5b-9873-fa14adc0508c" /></td>
-        <td><img width="1030" alt="2" src="https://github.com/user-attachments/assets/2e688bb9-fa67-473e-9f92-2a126f3884ff" /></td>
+        <td><img alt="1" src="https://github.com/user-attachments/assets/33fb8cdb-4793-4b5b-9873-fa14adc0508c" /></td>
+        <td><img alt="2" src="https://github.com/user-attachments/assets/2e688bb9-fa67-473e-9f92-2a126f3884ff" /></td>
     </tr>
     <tr>
         <td><img width="982" alt="3" src="https://github.com/user-attachments/assets/91638207-9f6e-4ef0-8efe-f70d863c680e" /></td>
