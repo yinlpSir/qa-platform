@@ -33,7 +33,6 @@
     </tr>
 	<tr>
         <td><img width="970" alt="7" src="https://github.com/user-attachments/assets/11c6177b-7562-4e3b-9703-4fad44b83bc8" /></td>
-        <td><img src="https://oscimg.oschina.net/oscnet/up-d67451d308b7a79ad6819723396f7c3d77a.png"/></td>
     </tr>	 
 </table>
 
